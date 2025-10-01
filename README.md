@@ -1,0 +1,3 @@
+- Developed a system using an STM32 microcontroller to measure and process ambient light intensity via ADC channels, displaying the results on an HD44780 LCD.
+- Implemented LED indicators (red, yellow, green) to show light intensity levels and controlled additional LEDs to adjust the lighting based on sensor readings.
+- Utilized I2C communication for LCD control and created an algorithm for efficient LED management and light intensity adjustment.
